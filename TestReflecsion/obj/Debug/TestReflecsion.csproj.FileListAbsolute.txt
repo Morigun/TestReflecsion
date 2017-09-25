@@ -1,0 +1,6 @@
+C:\MyDOC\Проекты\C#\Developer\TestReflecsion\TestReflecsion\bin\Debug\TestReflecsion.exe
+C:\MyDOC\Проекты\C#\Developer\TestReflecsion\TestReflecsion\bin\Debug\TestReflecsion.pdb
+C:\MyDOC\Проекты\C#\Developer\TestReflecsion\TestReflecsion\obj\Debug\ResolveAssemblyReference.cache
+C:\MyDOC\Проекты\C#\Developer\TestReflecsion\TestReflecsion\obj\Debug\TestReflecsion.exe
+C:\MyDOC\Проекты\C#\Developer\TestReflecsion\TestReflecsion\obj\Debug\TestReflecsion.pdb
+C:\MyDOC\Проекты\C#\Developer\TestReflecsion\TestReflecsion\bin\Debug\TestReflecsion.exe.config
